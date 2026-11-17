@@ -1,0 +1,23 @@
+{
+  "selected_model": "Logistic Regression",
+  "features": [
+    "weekly_study_hours",
+    "attendance_percent",
+    "previous_exam_score",
+    "assignment_average",
+    "quiz_average",
+    "sleep_hours",
+    "class_participation",
+    "parental_support_level",
+    "tutoring",
+    "internet_access",
+    "extracurricular_activity",
+    "travel_time_minutes"
+  ],
+  "class_order": [
+    "Needs Support",
+    "Developing",
+    "High Performer"
+  ],
+  "target": "performance_level"
+}

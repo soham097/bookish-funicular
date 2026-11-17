@@ -1,0 +1,9 @@
+                precision    recall  f1-score   support
+
+ Needs Support       0.80      0.83      0.81       129
+    Developing       0.80      0.70      0.74       187
+High Performer       0.62      0.83      0.71        59
+
+      accuracy                           0.76       375
+     macro avg       0.74      0.79      0.76       375
+  weighted avg       0.77      0.76      0.76       375
